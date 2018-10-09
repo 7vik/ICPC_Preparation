@@ -24,4 +24,23 @@ hello, @7vik, add initial prep guide later, after your ICPC.
 * [Union-find by Rank](https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/)
 * [Kruskal's Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 * [Sebi and Corrupt Govt](https://www.codechef.com/problems/SETELE)
-* 
+*
+
+## Random Topics -- not arranged date wise, but chronological
+* [Transitive Closure](https://en.wikipedia.org/wiki/Transitive_closure)
+* [TC Using Warshall's](https://www.geeksforgeeks.org/transitive-closure-of-a-graph/)
+* [All-pair shortest paths on Weighted Graphs](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)
+* [Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism)
+* [Matching](https://en.wikipedia.org/wiki/Matching_(graph_theory)
+* [Berge's Lemma](https://en.wikipedia.org/wiki/Berge%27s_lemma)
+* [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+## Random Two
+* [Maximum Bipartite Matching](https://www.geeksforgeeks.org/maximum-bipartite-matching/)
+* [Partially Ordered Sets](https://en.wikipedia.org/wiki/Partially_ordered_set)
+* [Connex Relation](https://en.wikipedia.org/wiki/Connex_relation)
+* [Well-order](https://en.wikipedia.org/wiki/Well-order)
+* [Total Order](https://en.wikipedia.org/wiki/Total_order)
+* [Lattices (Posets, not groups)](https://en.wikipedia.org/wiki/Lattice_(order)
+
