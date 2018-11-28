@@ -43,4 +43,22 @@ hello, @7vik, add initial prep guide later, after your ICPC.
 * [Well-order](https://en.wikipedia.org/wiki/Well-order)
 * [Total Order](https://en.wikipedia.org/wiki/Total_order)
 * [Lattices (Posets, not groups)](https://en.wikipedia.org/wiki/Lattice_(order)
+* [Subgraphs](https://www.edmath.org/MATtours/discrete/concepts/csubgr.html)
 
+## Random Tree.5
+* [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+* [Complemented Lattices](https://en.wikipedia.org/wiki/Complemented_lattice)
+* [Permutation Matrix](https://en.wikipedia.org/wiki/Permutation_matrix)
+
+## Day 1 of 7 (16th Oct) 
+### A-Maths (do the practice problems too)
+* [Phi](https://cp-algorithms.com/algebra/phi-function.html)
+* [GCD,LCM](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+* [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+* [Mod Inverse (Multiplicative)](https://cp-algorithms.com/algebra/module-inverse.html)
+* [Chinese RemT](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html)
+
+### B-Graphs 
+* [Coding a DFS (Object Oriented)](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+* [Codechef - FIRESC](https://www.codechef.com/problems/FIRESC)
+*  
